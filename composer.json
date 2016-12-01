@@ -1,0 +1,11 @@
+{
+    "name": "unicodeveloper/pluscodes",
+    "description": "PHP Implementation for Google Open Location Codes - pluscodes",
+    "authors": [
+        {
+            "name": "PROSPER OTEMUYIWA",
+            "email": "prosperotemuyiwa@gmail.com"
+        }
+    ],
+    "require": {}
+}
