@@ -2,6 +2,8 @@
 
 PHP implementation of Google Open Location Code(Plus+Codes)
 
+## WIP - PLEASE DON'T HURT YOURSELF, I BEG YOU!!!!
+
 [Open Location Code project](https://github.com/google/open-location-code)
 
 ## Work In Progress (WIP) 
